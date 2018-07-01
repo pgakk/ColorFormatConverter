@@ -11,7 +11,7 @@ A library that converts color format from RGB value to its HEX equivalent and vi
 
     var colorFormatConverter = require('@pgakk/colorformat-converter');
 
-    var convertedOutput = colorFormatConverter('ea2291');
+    var convertedOutput = colorFormatConverter.verifyFormat('ea2291');
   
   
   Output should be `rgb(234,34,145)`
