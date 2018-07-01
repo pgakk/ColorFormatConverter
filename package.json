@@ -1,0 +1,30 @@
+{
+  "name": "colorformatconverter",
+  "version": "1.0.0",
+  "description": "Converts Color formats from RGB to HEX and vice versa",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pgakk/challenge6/blob/master/SolutiontoQ3.js"
+  },
+  "keywords": [
+    "RGB",
+    "HEX",
+    "Color",
+    "Format",
+    "Conversion",
+    "Converter"
+  ],
+  "author": "pgakk",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
